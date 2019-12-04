@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.bennyhuo.com/2019/05/27/coroutine-android/</loc>
-    
-    <lastmod>2019-12-02T01:48:35.122Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/2019/09/16/coroutine-channel/</loc>
-    
-    <lastmod>2019-12-02T01:48:35.121Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.bennyhuo.com/2019/04/01/basic-coroutines/</loc>
     
-    <lastmod>2019-12-02T01:48:35.119Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/2019/04/11/coroutine-dispatchers/</loc>
-    
-    <lastmod>2019-12-02T01:48:35.118Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/2019/04/30/coroutine-cancellation/</loc>
-    
-    <lastmod>2019-12-02T01:48:35.117Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/2019/04/08/coroutines-start-mode/</loc>
-    
-    <lastmod>2019-12-02T01:48:35.116Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/2019/05/10/google-preferred-kotlin/</loc>
-    
-    <lastmod>2019-12-02T01:48:35.115Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/2019/10/22/kotlin-forum-mobile/</loc>
-    
-    <lastmod>2019-12-02T01:48:35.114Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/2019/04/23/coroutine-exceptions/</loc>
-    
-    <lastmod>2019-12-02T01:48:35.113Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/2019/12/01/coroutine-implementations/</loc>
-    
-    <lastmod>2019-12-02T01:48:35.112Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/2019/10/19/coroutine-why-so-called-lightweight-thread/</loc>
-    
-    <lastmod>2019-12-02T01:48:35.111Z</lastmod>
+    <lastmod>2019-12-04T02:12:16.908Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.bennyhuo.com/2019/05/07/coroutine-suspend/</loc>
     
-    <lastmod>2019-12-02T01:48:35.110Z</lastmod>
+    <lastmod>2019-12-04T02:12:16.908Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2019/10/22/kotlin-forum-mobile/</loc>
+    
+    <lastmod>2019-12-04T02:12:16.908Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.bennyhuo.com/2019/05/26/coroutine-sequence/</loc>
     
-    <lastmod>2019-12-02T01:48:35.109Z</lastmod>
+    <lastmod>2019-12-04T02:12:16.904Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2019/05/10/google-preferred-kotlin/</loc>
+    
+    <lastmod>2019-12-04T02:12:16.904Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2019/05/27/coroutine-android/</loc>
+    
+    <lastmod>2019-12-04T02:12:16.900Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2019/04/08/coroutines-start-mode/</loc>
+    
+    <lastmod>2019-12-04T02:12:16.900Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2019/04/23/coroutine-exceptions/</loc>
+    
+    <lastmod>2019-12-04T02:12:16.896Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2019/12/01/coroutine-implementations/</loc>
+    
+    <lastmod>2019-12-04T02:12:16.896Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2019/10/19/coroutine-why-so-called-lightweight-thread/</loc>
+    
+    <lastmod>2019-12-04T02:12:16.896Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2019/09/16/coroutine-channel/</loc>
+    
+    <lastmod>2019-12-04T02:12:16.892Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2019/04/11/coroutine-dispatchers/</loc>
+    
+    <lastmod>2019-12-04T02:12:16.892Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2019/04/30/coroutine-cancellation/</loc>
+    
+    <lastmod>2019-12-04T02:12:16.888Z</lastmod>
     
   </url>
   
