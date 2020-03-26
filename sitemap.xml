@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.bennyhuo.com/2020/03/26/kotlin-1.4-preview/</loc>
+    
+    <lastmod>2020-03-26T09:18:48.970Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.bennyhuo.com/2020/03/14/coroutine-flow/</loc>
     
     <lastmod>2020-03-14T02:55:55.386Z</lastmod>
