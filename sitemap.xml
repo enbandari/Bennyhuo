@@ -2,23 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.bennyhuo.com/2020/04/06/kotlin-intersect-type/</loc>
+    <loc>https://www.bennyhuo.com/2020/05/08/kotlin-swift-property-delegate/</loc>
     
-    <lastmod>2020-04-06T10:03:05.259Z</lastmod>
+    <lastmod>2020-05-17T23:16:47.028Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.bennyhuo.com/2020/03/26/kotlin-1.4-preview/</loc>
+    <loc>https://www.bennyhuo.com/2020/02/13/kotlin-news-202002/</loc>
     
-    <lastmod>2020-03-29T00:00:42.970Z</lastmod>
+    <lastmod>2020-05-08T08:25:34.385Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2019/05/27/coroutine-android/</loc>
+    
+    <lastmod>2020-05-08T08:25:34.385Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2020/04/06/kotlin-intersect-type/</loc>
+    
+    <lastmod>2020-05-08T08:25:34.384Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.bennyhuo.com/2020/03/14/coroutine-flow/</loc>
     
-    <lastmod>2020-03-14T02:55:55.386Z</lastmod>
+    <lastmod>2020-05-08T08:25:34.383Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2020/04/19/kotlin-native-android-mpp/</loc>
+    
+    <lastmod>2020-05-08T08:25:34.383Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2020/02/03/coroutine-select/</loc>
+    
+    <lastmod>2020-05-08T08:25:34.382Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2020/03/26/kotlin-1.4-preview/</loc>
+    
+    <lastmod>2020-05-08T08:25:34.381Z</lastmod>
     
   </url>
   
@@ -40,27 +75,6 @@
     <loc>https://www.bennyhuo.com/project/kotlin-coroutines.html</loc>
     
     <lastmod>2020-02-25T23:58:25.535Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/2019/05/27/coroutine-android/</loc>
-    
-    <lastmod>2020-02-13T13:16:05.946Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/2020/02/13/kotlin-news-202002/</loc>
-    
-    <lastmod>2020-02-13T13:16:05.944Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/2020/02/03/coroutine-select/</loc>
-    
-    <lastmod>2020-02-13T13:16:05.942Z</lastmod>
     
   </url>
   
