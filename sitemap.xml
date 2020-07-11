@@ -2,86 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.bennyhuo.com/2020/06/14/c-println/</loc>
-    
-    <lastmod>2020-06-17T23:16:30.769Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/project/kotlin-coroutines.html</loc>
-    
-    <lastmod>2020-06-17T22:58:33.091Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.bennyhuo.com/2020/04/06/kotlin-intersect-type/</loc>
     
-    <lastmod>2020-06-14T06:51:21.248Z</lastmod>
+    <lastmod>2020-07-11T10:48:50.960Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2020/06/14/c-println/</loc>
+    
+    <lastmod>2020-07-11T10:48:50.959Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.bennyhuo.com/2019/05/27/coroutine-android/</loc>
     
-    <lastmod>2020-06-14T06:51:21.246Z</lastmod>
+    <lastmod>2020-07-11T10:48:50.958Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.bennyhuo.com/2020/03/26/kotlin-1.4-preview/</loc>
     
-    <lastmod>2020-06-14T06:51:21.245Z</lastmod>
+    <lastmod>2020-07-11T10:48:50.955Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.bennyhuo.com/2020/02/03/coroutine-select/</loc>
     
-    <lastmod>2020-06-14T06:51:21.243Z</lastmod>
+    <lastmod>2020-07-11T10:48:50.953Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2020/06/23/understanding-kotlin-coroutines/</loc>
+    
+    <lastmod>2020-07-11T10:48:50.952Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.bennyhuo.com/2020/04/19/kotlin-native-android-mpp/</loc>
     
-    <lastmod>2020-06-14T06:51:21.241Z</lastmod>
+    <lastmod>2020-07-11T10:48:50.950Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.bennyhuo.com/2020/06/09/kotlin-map-default/</loc>
     
-    <lastmod>2020-06-14T06:51:21.240Z</lastmod>
+    <lastmod>2020-07-11T10:48:50.946Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.bennyhuo.com/2020/03/14/coroutine-flow/</loc>
     
-    <lastmod>2020-06-14T06:51:21.239Z</lastmod>
+    <lastmod>2020-07-11T10:48:50.944Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.bennyhuo.com/2020/05/08/kotlin-swift-property-delegate/</loc>
     
-    <lastmod>2020-06-14T06:51:21.236Z</lastmod>
+    <lastmod>2020-07-11T10:48:50.940Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.bennyhuo.com/2020/02/13/kotlin-news-202002/</loc>
     
-    <lastmod>2020-06-14T06:51:21.234Z</lastmod>
+    <lastmod>2020-07-11T10:48:50.939Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.bennyhuo.com/2020/05/23/lazy-evaluation/</loc>
     
-    <lastmod>2020-06-14T06:51:21.232Z</lastmod>
+    <lastmod>2020-07-11T10:48:50.937Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/project/kotlin-coroutines.html</loc>
+    
+    <lastmod>2020-07-11T10:47:37.136Z</lastmod>
     
   </url>
   
@@ -107,14 +114,7 @@
   </url>
   
   <url>
-    <loc>https://www.bennyhuo.com/2019/03/11/kotlin-nodejs/</loc>
-    
-    <lastmod>2020-02-03T08:48:04.421Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/2019/01/07/kotlin_AutoDispose/</loc>
+    <loc>https://www.bennyhuo.com/2018/12/31/kotlin-native-jni-dynamic/</loc>
     
     <lastmod>2020-02-03T08:48:04.421Z</lastmod>
     
@@ -128,7 +128,14 @@
   </url>
   
   <url>
-    <loc>https://www.bennyhuo.com/2018/12/31/kotlin-native-jni-dynamic/</loc>
+    <loc>https://www.bennyhuo.com/2019/01/07/kotlin_AutoDispose/</loc>
+    
+    <lastmod>2020-02-03T08:48:04.421Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2019/03/11/kotlin-nodejs/</loc>
     
     <lastmod>2020-02-03T08:48:04.421Z</lastmod>
     
@@ -149,13 +156,6 @@
   </url>
   
   <url>
-    <loc>https://www.bennyhuo.com/2019/05/07/coroutine-suspend/</loc>
-    
-    <lastmod>2020-02-03T08:48:04.411Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.bennyhuo.com/2019/10/19/coroutine-why-so-called-lightweight-thread/</loc>
     
     <lastmod>2020-02-03T08:48:04.411Z</lastmod>
@@ -163,14 +163,7 @@
   </url>
   
   <url>
-    <loc>https://www.bennyhuo.com/2019/05/26/coroutine-sequence/</loc>
-    
-    <lastmod>2020-02-03T08:48:04.411Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/2018/12/02/deepcopy/</loc>
+    <loc>https://www.bennyhuo.com/2019/05/07/coroutine-suspend/</loc>
     
     <lastmod>2020-02-03T08:48:04.411Z</lastmod>
     
@@ -184,6 +177,13 @@
   </url>
   
   <url>
+    <loc>https://www.bennyhuo.com/2018/12/02/deepcopy/</loc>
+    
+    <lastmod>2020-02-03T08:48:04.411Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.bennyhuo.com/2019/05/10/google-preferred-kotlin/</loc>
     
     <lastmod>2020-02-03T08:48:04.411Z</lastmod>
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://www.bennyhuo.com/2018/10/02/kotlin-community-cn/</loc>
+    <loc>https://www.bennyhuo.com/2019/05/26/coroutine-sequence/</loc>
     
     <lastmod>2020-02-03T08:48:04.411Z</lastmod>
     
@@ -205,14 +205,14 @@
   </url>
   
   <url>
-    <loc>https://www.bennyhuo.com/2019/04/01/basic-coroutines/</loc>
+    <loc>https://www.bennyhuo.com/2018/10/02/kotlin-community-cn/</loc>
     
-    <lastmod>2020-02-03T08:48:04.401Z</lastmod>
+    <lastmod>2020-02-03T08:48:04.411Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.bennyhuo.com/2019/04/30/coroutine-cancellation/</loc>
+    <loc>https://www.bennyhuo.com/2019/04/01/basic-coroutines/</loc>
     
     <lastmod>2020-02-03T08:48:04.401Z</lastmod>
     
@@ -226,7 +226,7 @@
   </url>
   
   <url>
-    <loc>https://www.bennyhuo.com/2019/09/16/coroutine-channel/</loc>
+    <loc>https://www.bennyhuo.com/2019/04/30/coroutine-cancellation/</loc>
     
     <lastmod>2020-02-03T08:48:04.401Z</lastmod>
     
@@ -247,7 +247,21 @@
   </url>
   
   <url>
+    <loc>https://www.bennyhuo.com/2019/09/16/coroutine-channel/</loc>
+    
+    <lastmod>2020-02-03T08:48:04.401Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.bennyhuo.com/2019/02/05/2019_new_year/</loc>
+    
+    <lastmod>2020-02-03T08:48:04.391Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2018/11/18/2018-JetBrains-Day/</loc>
     
     <lastmod>2020-02-03T08:48:04.391Z</lastmod>
     
@@ -262,13 +276,6 @@
   
   <url>
     <loc>https://www.bennyhuo.com/2018/11/26/ReleasableVar/</loc>
-    
-    <lastmod>2020-02-03T08:48:04.391Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/2018/11/18/2018-JetBrains-Day/</loc>
     
     <lastmod>2020-02-03T08:48:04.391Z</lastmod>
     
