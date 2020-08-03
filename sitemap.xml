@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.bennyhuo.com/project/kotlin-coroutines.html</loc>
+    
+    <lastmod>2020-08-03T04:42:27.219Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2020/07/15/kotlin-native-introduction/</loc>
+    
+    <lastmod>2020-07-15T02:40:01.829Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.bennyhuo.com/2020/04/06/kotlin-intersect-type/</loc>
     
     <lastmod>2020-07-11T10:48:50.960Z</lastmod>
@@ -82,13 +96,6 @@
     <loc>https://www.bennyhuo.com/2020/05/23/lazy-evaluation/</loc>
     
     <lastmod>2020-07-11T10:48:50.937Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/project/kotlin-coroutines.html</loc>
-    
-    <lastmod>2020-07-11T10:47:37.136Z</lastmod>
     
   </url>
   
