@@ -1,47 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.bennyhuo.com/2020/10/19/kotlin-news-202010/</loc>
-    <lastmod>2020-10-19</lastmod>
-  </url>  <url>
-    <loc>https://www.bennyhuo.com/2020/07/15/kotlin-native-introduction/</loc>
-    <lastmod>2020-08-30</lastmod>
-  </url>  <url>
     <loc>https://www.bennyhuo.com/2020/04/06/kotlin-intersect-type/</loc>
-    <lastmod>2020-07-11</lastmod>
-  </url>  <url>
-    <loc>https://www.bennyhuo.com/2020/06/14/c-println/</loc>
-    <lastmod>2020-07-11</lastmod>
-  </url>  <url>
-    <loc>https://www.bennyhuo.com/2019/05/27/coroutine-android/</loc>
-    <lastmod>2020-07-11</lastmod>
-  </url>  <url>
-    <loc>https://www.bennyhuo.com/2020/03/26/kotlin-1.4-preview/</loc>
-    <lastmod>2020-07-11</lastmod>
-  </url>  <url>
-    <loc>https://www.bennyhuo.com/2020/02/03/coroutine-select/</loc>
-    <lastmod>2020-07-11</lastmod>
-  </url>  <url>
-    <loc>https://www.bennyhuo.com/2020/06/23/understanding-kotlin-coroutines/</loc>
-    <lastmod>2020-07-11</lastmod>
-  </url>  <url>
-    <loc>https://www.bennyhuo.com/2020/04/19/kotlin-native-android-mpp/</loc>
-    <lastmod>2020-07-11</lastmod>
-  </url>  <url>
-    <loc>https://www.bennyhuo.com/2020/06/09/kotlin-map-default/</loc>
-    <lastmod>2020-07-11</lastmod>
-  </url>  <url>
-    <loc>https://www.bennyhuo.com/2020/03/14/coroutine-flow/</loc>
-    <lastmod>2020-07-11</lastmod>
-  </url>  <url>
-    <loc>https://www.bennyhuo.com/2020/05/08/kotlin-swift-property-delegate/</loc>
-    <lastmod>2020-07-11</lastmod>
-  </url>  <url>
-    <loc>https://www.bennyhuo.com/2020/02/13/kotlin-news-202002/</loc>
-    <lastmod>2020-07-11</lastmod>
+    <lastmod>2020-11-07</lastmod>
   </url>  <url>
     <loc>https://www.bennyhuo.com/2020/05/23/lazy-evaluation/</loc>
-    <lastmod>2020-07-11</lastmod>
+    <lastmod>2020-11-07</lastmod>
+  </url>  <url>
+    <loc>https://www.bennyhuo.com/2020/06/23/understanding-kotlin-coroutines/</loc>
+    <lastmod>2020-11-07</lastmod>
+  </url>  <url>
+    <loc>https://www.bennyhuo.com/2020/03/14/coroutine-flow/</loc>
+    <lastmod>2020-11-07</lastmod>
+  </url>  <url>
+    <loc>https://www.bennyhuo.com/2020/02/03/coroutine-select/</loc>
+    <lastmod>2020-11-07</lastmod>
+  </url>  <url>
+    <loc>https://www.bennyhuo.com/2020/03/26/kotlin-1.4-preview/</loc>
+    <lastmod>2020-11-07</lastmod>
+  </url>  <url>
+    <loc>https://www.bennyhuo.com/2020/05/08/kotlin-swift-property-delegate/</loc>
+    <lastmod>2020-11-07</lastmod>
+  </url>  <url>
+    <loc>https://www.bennyhuo.com/2019/05/27/coroutine-android/</loc>
+    <lastmod>2020-11-07</lastmod>
+  </url>  <url>
+    <loc>https://www.bennyhuo.com/2020/06/14/c-println/</loc>
+    <lastmod>2020-11-07</lastmod>
+  </url>  <url>
+    <loc>https://www.bennyhuo.com/2020/04/19/kotlin-native-android-mpp/</loc>
+    <lastmod>2020-11-07</lastmod>
+  </url>  <url>
+    <loc>https://www.bennyhuo.com/2020/06/09/kotlin-map-default/</loc>
+    <lastmod>2020-11-07</lastmod>
+  </url>  <url>
+    <loc>https://www.bennyhuo.com/2020/11/07/deprecated-kotlin-android-extensions/</loc>
+    <lastmod>2020-11-07</lastmod>
+  </url>  <url>
+    <loc>https://www.bennyhuo.com/2020/02/13/kotlin-news-202002/</loc>
+    <lastmod>2020-11-07</lastmod>
+  </url>  <url>
+    <loc>https://www.bennyhuo.com/2020/07/15/kotlin-native-introduction/</loc>
+    <lastmod>2020-11-07</lastmod>
+  </url>  <url>
+    <loc>https://www.bennyhuo.com/2020/10/19/kotlin-news-202010/</loc>
+    <lastmod>2020-11-07</lastmod>
   </url>  <url>
     <loc>https://www.bennyhuo.com/2019/10/22/kotlin-forum-mobile/</loc>
     <lastmod>2020-02-03</lastmod>
